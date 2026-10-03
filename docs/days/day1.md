@@ -34,7 +34,7 @@ A variable is declared and assigned a value in Python by using the assignment op
 
 ``` python
 a = 7         # assign variable a the value 7
-b = x + 3     # assign variable b the value of a plus 3
+b = a + 3     # assign variable b the value of a plus 3
 c = b         # assign variable c the value of b
 ```
 
